@@ -27,9 +27,10 @@ My approach is simple:
 
 ### 💻 Technical Skills
 
-* **SQL** (Joins, Aggregations, Window Functions)
+* **SQL** (Joins, Aggregations and Filtering, Window Functions, Subquery, CTE,Case Statement)
 * **Power BI** (Data Modeling, DAX, Dashboarding)
-* **Excel** (Pivot Tables, Advanced Formulas)
+* **Excel** (Pivot Tables, Advanced Formulas, Power Query, Data Cleaning)
+* **Python** (Numpy, Pandas, Matplotlib)
 
 ### 📊 Analytical Skills
 
@@ -42,7 +43,7 @@ My approach is simple:
 
 ## 📊 Featured Project
 
-### 🛒 Zepto E-commerce Data Analysis
+### 🛒 Zepto E-commerce Sales Analysis using SQL
 
 Analyzed a dataset of **3,700+ products** to identify:
 
