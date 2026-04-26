@@ -77,7 +77,7 @@ To secure a **Data Analyst role** where I can apply my analytical skills to solv
 
 * 💼 LinkedIn: linkedin.com/in/anitayadav25
 * 📧 Email: anitayadav8906@gmail.com
-* 📞 Phone : 7869045424
+
 
 ---
 
