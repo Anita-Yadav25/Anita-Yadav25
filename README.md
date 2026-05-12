@@ -4,12 +4,7 @@
 
 ## 🚀 About Me
 
-I’m ✨ **Anita Yadav** ✨ — a professional **transitioning** into Data Analytics with 7+ years of experience in quality analysis and operations.
-
-I specialize in analyzing real-world datasets to uncover **actionable insights that drive business decisions**. Recently, I’ve been working on projects involving **SQL, Power BI, and Excel**, focusing on solving problems in **e-commerce and business domains.**
-
-My approach is simple:
-👉 **Understand the business → Analyze the data → Deliver insights that matter**
+Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
 
 ---
 
@@ -26,11 +21,10 @@ My approach is simple:
 ## 🛠 Skills
 
 ### 💻 Technical Skills
-
-* **SQL** (Joins, Aggregations and Filtering, Window Functions, Subquery, CTE,Case Statement)
-* **Power BI** (Data Modeling, DAX, Dashboarding)
-* **Excel** (Pivot Tables, Advanced Formulas, Power Query, Data Cleaning)
-* **Python** (Numpy, Pandas, Matplotlib)
+**SQL** : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
+**Excel** : Pivot Tables, Power Query, Data Cleaning, Power Pivot
+**Power BI** : Data Modeling, DAX, Build Business Reports
+**Python** : Pandas, Numpy, Matplotlib
 
 ### 📊 Analytical Skills
 
