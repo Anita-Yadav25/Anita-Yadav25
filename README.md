@@ -53,10 +53,6 @@ Analyzed a dataset of **3,700+ products** to identify:
 * ⚖️ Value-for-money analysis (price per gram)
 * 📦 Inventory distribution and operational gaps
 
-👉 This project demonstrates how SQL can be used to drive **real business decisions**
-
-🔗 **Project Link:** (Add your GitHub repo link here)
-
 ---
 
 ## 📈 What I'm Currently Working On
