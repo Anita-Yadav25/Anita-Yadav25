@@ -8,16 +8,6 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ---
 
-## 🔭 My Interests
-
-* 📊 **Data Analytics** – Solving real-world business problems using data
-* 📈 **Business Intelligence** – Building dashboards that tell a story
-* 🛒 **E-commerce Analytics** – Pricing, demand, and inventory insights
-* 🧠 **Data Storytelling** – Turning numbers into meaningful decisions
-* 📉 **Process Optimization** – Improving efficiency using data
-
----
-
 ## 🛠 Skills
 
 ### 💻 Technical Skills
@@ -26,7 +16,18 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 **Power BI** : Data Modeling, DAX, Build Business Reports
 **Python** : Pandas, Numpy, Matplotlib
 
-### 📊 Analytical Skills
+---
+
+## 🔭 My Interests
+
+* 📊 **Data Analytics** – Solving real-world business problems using data
+* 📈 **Business Intelligence** – Building dashboards that tell a story
+* 🛒 **E-commerce Analytics** – Pricing, demand, and inventory insights
+* 🧠 **Data Storytelling** – Turning numbers into meaningful decisions
+* 📉 **Process Optimization** – Improving efficiency using data
+
+
+## 📊 Analytical Skills
 
 * Data Cleaning & Transformation
 * Exploratory Data Analysis (EDA)
