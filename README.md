@@ -12,13 +12,13 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ### 💻 Technical Skills
 
-**SQL** : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
+**SQL** : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE
 
-**Excel** : Pivot Tables, Power Query, Data Cleaning, Power Pivot
+**Excel** :  Vlookup, Xlookup,Pivot Tables, Power Query, Data Cleaning
 
 **Power BI** : Data Modeling, DAX, Build Business Reports
 
-**Python** : Pandas, Numpy, Matplotlib
+**Python** : Pandas
 
 ---
 
