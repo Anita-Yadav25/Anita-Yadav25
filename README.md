@@ -40,25 +40,11 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ---
 
-## 📊 Featured Project
+ ### What I Deliver
+- Clean, reliable datasets ready for analysis
+- Insights tied to revenue, cost, and customer outcomes
+- Dashboards and reports that non-technical teams can act on
 
-### 🛒 Zepto E-commerce Sales Analysis using SQL
-
-Analyzed a dataset of **3,700+ products** to identify:
-
-* 🚨 Revenue leakage due to stockouts
-* 💰 Category-wise revenue contribution
-* 🏷️ Pricing and discount inefficiencies
-* ⚖️ Value-for-money analysis (price per gram)
-* 📦 Inventory distribution and operational gaps
-
----
-
-## 📈 What I'm Currently Working On
-
-* Building **Power BI dashboards**
-* Strengthening **SQL problem-solving skills**
-* Creating more **real-world data projects**
 
 ---
 
