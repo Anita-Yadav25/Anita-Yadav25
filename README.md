@@ -1,8 +1,8 @@
-# 👋 Hi, there! I'm Anita Yadav!
+#  Hi, there! I'm Anita Yadav!
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
 
@@ -10,7 +10,7 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ## 🛠 Skills
 
-### 💻 Technical Skills
+### Technical Skills
 
 **SQL** : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE
 
@@ -22,16 +22,16 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ---
 
-## 🔭 My Interests
+##  My Interests
 
-* 📊 **Data Analytics** – Solving real-world business problems using data
-* 📈 **Business Intelligence** – Building dashboards that tell a story
-* 🛒 **E-commerce Analytics** – Pricing, demand, and inventory insights
-* 🧠 **Data Storytelling** – Turning numbers into meaningful decisions
-* 📉 **Process Optimization** – Improving efficiency using data
+*  **Data Analytics** – Solving real-world business problems using data
+* **Business Intelligence** – Building dashboards that tell a story
+*  **E-commerce Analytics** – Pricing, demand, and inventory insights
+*  **Data Storytelling** – Turning numbers into meaningful decisions
+* **Process Optimization** – Improving efficiency using data
 
 
-## 📊 Analytical Skills
+##  Analytical Skills
 
 * Data Cleaning & Transformation
 * Exploratory Data Analysis (EDA)
@@ -48,16 +48,16 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 To secure a **Data Analyst role** where I can apply my analytical skills to solve business problems and contribute to data-driven decision-making.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-* 💼 LinkedIn: linkedin.com/in/anitayadav25
-* 📧 Email: anitayadav8906@gmail.com
+*  LinkedIn: linkedin.com/in/anitayadav25
+
 
 
 ---
