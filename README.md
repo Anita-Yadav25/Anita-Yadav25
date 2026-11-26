@@ -8,7 +8,7 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 ### Technical Skills
 
@@ -62,4 +62,4 @@ To secure a **Data Analyst role** where I can apply my analytical skills to solv
 
 ---
 
-⭐ Always learning, building, and growing in the world of data
+ Always learning, building, and growing in the world of data
